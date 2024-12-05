@@ -25,7 +25,8 @@ This project is a SQLite3 database application to record product price changes a
 
     We'll create a GUI interface to interact with the database. Below is an image of the GUI.
 
-    !GUI Interface
+    ![image](https://github.com/user-attachments/assets/3eb3ff96-c6c6-4a3e-8f35-beb2dfdb50f6)
+
 
 5. **Creating an Executable File**
 
